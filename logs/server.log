@@ -1,0 +1,27 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:54106 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:56482 - "GET /machines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56468 - "GET /orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56504 - "GET /automation/logs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56508 - "GET /machines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56482 - "GET /orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56468 - "GET /automation/logs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56484 - "GET /maintenance HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56498 - "GET /alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56468 - "GET /maintenance HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56482 - "GET /alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41728 - "GET /orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41712 - "GET /machines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41732 - "GET /maintenance HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41736 - "GET /alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41752 - "GET /orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41728 - "GET /machines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41712 - "GET /maintenance HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41732 - "GET /alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41748 - "GET /automation/logs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41732 - "GET /automation/logs HTTP/1.1" 200 OK
